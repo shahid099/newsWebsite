@@ -1,0 +1,642 @@
+
+
+ articles = [
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "beincrypto.com",
+"title": "Elon Musk Dispels X Token Rumors Following TwitterDAO Pump and Dump",
+"description": "Elon Musk has ruled out an X/Twitter crypto token and insisted he has no intention of launching one. The comments came after the TwitterDAO coin pumped and then quickly dumped on Saturday. Twitter has never endorsed the token. Only its name connects it to the…",
+"url": "https://biztoc.com/x/32b3e07fd04399eb",
+"urlToImage": "https://c.biztoc.com/p/32b3e07fd04399eb/s.webp",
+"publishedAt": "2023-08-06T13:04:04Z",
+"content": "Elon Musk has ruled out an X/Twitter crypto token and insisted he has no intention of launching one.The comments came after the TwitterDAO coin pumped and then quickly dumped on Saturday. Twitter has… [+285 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "barrons.com",
+"title": "Giant Fund Slashed Apple Stock Investment, Bought Tesla, Nvidia",
+"description": "AustralianSuper, one of the world’s largest pensions, halved its Apple stock investment and sold Microsoft stock, while buying shares of Tesla and Nvidia. #australiansuper #apple #tesla #nvidia",
+"url": "https://biztoc.com/x/80435f8e620a8464",
+"urlToImage": "https://c.biztoc.com/p/80435f8e620a8464/s.webp",
+"publishedAt": "2023-08-06T12:32:04Z",
+"content": "AustralianSuper, one of the worlds largest pensions, halved its Apple stock investment and sold Microsoft stock, while buying shares of Tesla and Nvidia.\r\n#australiansuper#apple#tesla#nvidia\r\nThis st… [+29 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "TipRanks",
+"title": "JEPI Fans Take Note. There’s a New 10% Dividend Yield Competitor in Town",
+"description": "The JPMorgan Equity Premium Income ETF’s (NYSEARCA:JEPI) combination of high yield and monthly payments has quickly made it one of the market’s most popular ...",
+"url": "https://finance.yahoo.com/news/jepi-fans-note-10-dividend-123000205.html",
+"urlToImage": "https://media.zenfs.com/en/tipranks_452/94e00d14f92acf5eab16f1c67f370c75",
+"publishedAt": "2023-08-06T12:30:00Z",
+"content": "The JPMorgan Equity Premium Income ETFs (NYSEARCA:JEPI) combination of high yield and monthly payments has quickly made it one of the markets most popular ETFs. Investors who like JEPIs style now hav… [+6491 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Daily Mail"
+},
+"author": "Adrian Bishop",
+"title": "Elon Musk reveals his showdown with Mark Zuckerberg will be live-streamed on X with all proceeds going to 'charity for veterans'... as the world's richest man reveals he has been 'lifting weights' in preparation for the fight",
+"description": "When asked by a subscriber on the platform what the purpose of fighting Zuckerberg would be, Musk responded: 'It's a civilized form of war. Men love war.'",
+"url": "https://www.dailymail.co.uk/sport/mma/article-12378063/Elon-Musk-reveals-showdown-Mark-Zuckerberg-live-streamed-X-proceeds-going-charity-veterans-worlds-richest-man-reveals-lifting-weights-preparation-fight.html",
+"urlToImage": "https://i.dailymail.co.uk/1s/2023/08/06/13/74014781-0-image-m-23_1691324386968.jpg",
+"publishedAt": "2023-08-06T12:20:46Z",
+"content": "Elon Musk has claimed that his showdown with Mark Zuckerberg will be live-streamed on X with all proceeds going to charity.\r\nBoth Musk and the Facebook founder have been pictured training since the f… [+2303 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Thegatewaypundit.com"
+},
+"author": "Jim Hᴏft",
+"title": "Elon Musk Pledges Unlimited Legal Funding for Employees Unfairly Treated by Employers for Contrarian Posts or Likes on X (Formerly Twitter)",
+"description": "In a bold move, Tesla and SpaceX CEO Elon Musk announced on Saturday evening that he will provide unlimited legal funding for individuals who have been unfairly treated by their employers due to their activities on X, his newly renamed social media platform (…",
+"url": "https://www.thegatewaypundit.com/2023/08/elon-musk-pledges-unlimited-legal-funding-employees-unfairly/",
+"urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/elon-musk.png",
+"publishedAt": "2023-08-06T12:15:32Z",
+"content": "In a bold move, Tesla and SpaceX CEO Elon Musk announced on Saturday evening that he will provide unlimited legal funding for individuals who have been unfairly treated by their employers due to thei… [+3971 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "barrons.com",
+"title": "Giant Fund Slashed Apple Stock Investment, Bought Tesla, Nvidia",
+"description": "AustralianSuper, one of the world’s largest pensions, halved its Apple stock investment and sold Microsoft stock, while buying shares of Tesla and Nvidia. #australiansuper #apple #tesla #nvidia",
+"url": "https://biztoc.com/x/f46804404977b1c6",
+"urlToImage": "https://c.biztoc.com/p/f46804404977b1c6/s.webp",
+"publishedAt": "2023-08-06T12:08:08Z",
+"content": "AustralianSuper, one of the worlds largest pensions, halved its Apple stock investment and sold Microsoft stock, while buying shares of Tesla and Nvidia.\r\n#australiansuper#apple#tesla#nvidia\r\nThis st… [+29 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Barron's"
+},
+"author": "Ed Lin",
+"title": "Giant Fund Slashed Apple Stock Investment, Bought Tesla, Nvidia",
+"description": "AustralianSuper, one of the world’s largest pensions, halved its Apple stock investment and sold Microsoft stock, while buying shares of Tesla and Nvidia.",
+"url": "https://www.barrons.com/articles/apple-stock-tesla-nvidia-microsoft-701c2d56",
+"urlToImage": "https://images.barrons.com/im-829293/social",
+"publishedAt": "2023-08-06T12:06:11Z",
+"content": "One of the largest pensions in the world just disclosed major investment changes in its largest stockholdings.AustralianSuper slashed positions in \r\n Apple\r\n (ticker: AAPL) and \r\n Microsoft\r\n (MSFT),… [+3474 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "HipHopDX"
+},
+"author": "Ruth Hawkins",
+"title": "Yo Gotti Gushes Over ‘The One’ Angela Simmons In New PDA-Filled Music Video",
+"description": "Yo Gotti and Angela Simmons heat things up in the latest visual for 'The One,' which is fresh off the Memphis rapper's new 'Gangsta Grillz' mixtape.",
+"url": "https://hiphopdx.com/news/yo-gotti-angela-simmons-one-music-video",
+"urlToImage": "https://static.hiphopdx.com/2023/08/yo-gotti-gushes-over-one-angela-simmons-new-pda-filled-music-video-1200x675.jpg",
+"publishedAt": "2023-08-06T12:00:21Z",
+"content": "Yo Gotti has turned up the heat with a new PDA-filled visual for The One, alongside his girlfriend Angela Simmons check it out below.\r\nFresh off his latest Gangsta Grillz mixtape, I Showed U So, back… [+2617 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Wccftech"
+},
+"author": "Muhammad Zuhair",
+"title": "NVIDIA’s H100 GPUs & The AI Frenzy; a Rundown of Current Situation",
+"description": "We all are well aware of NVIDIA and the AI \"gold mine\" that has recently taken everyone by storm. In the midst of everything stands Team Green's H100 AI GPUs, […]\nWritten by Muhammad Zuhair",
+"url": "https://wccftech.com/nvidia-h100-gpus-a-rundown-of-current-situation/",
+"urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2023/08/NVIDIA-Hopper-H100-GPU-g-very_compressed-scale-4_00x-Custom-728x404.png",
+"publishedAt": "2023-08-06T12:00:07Z",
+"content": "We all are well aware of NVIDIA and the AI \"gold mine\" that has recently taken everyone by storm. In the midst of everything stands Team Green's H100 AI GPUs, which are simply the most sought-after p… [+9837 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Notebookcheck.net"
+},
+"author": "Daniel Zlatev",
+"title": "Tesla Cybertruck merch list expands with angular cat litter box",
+"description": "After some inventive Cybertruck swag like the GigaBier and its edgy bottle housing, Tesla is now introducing far out ideas to popularize the iconic design of its upcoming Cybertruck electric pickup.",
+"url": "https://www.notebookcheck.net/Tesla-Cybertruck-merch-list-expands-with-angular-cat-litter-box.739314.0.html",
+"urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/tesla-cat-litter-box.jpg",
+"publishedAt": "2023-08-06T11:41:00Z",
+"content": "Tesla's country branches keep introducing imaginative merchandise tailored to local tastes, like the GigaBier gift boxes that Tesla Germany sells with design inspired by the Cybertruck. \r\nThe edgy st… [+1576 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "EV startup Fisker revealed plans for a four-door convertible supercar with a Tesla-crushing 600 miles of range",
+"description": "None One is the Rōnin, a four-door supercar with five seats and a claimed 1,000-plus horsepower. • None Fisker wants the $385,000 car to have at least 600 miles of range, more than any other EV out there. One of the biggest things keeping people from buying e…",
+"url": "https://biztoc.com/x/2f28393c86f3f16a",
+"urlToImage": "https://c.biztoc.com/p/2f28393c86f3f16a/s.webp",
+"publishedAt": "2023-08-06T11:38:05Z",
+"content": "None One is the Rnin, a four-door supercar with five seats and a claimed 1,000-plus horsepower.None Fisker wants the $385,000 car to have at least 600 miles of range, more than any other EV out there… [+274 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+"title": "Elon Musk Declaration Sparks Wild Speculation He Could Be About To Blow Up The Bitcoin, Ethereum, XRP And Dogecoin Price",
+"description": "Traders are braced for mercurial billionaire Elon Musk to lob a grenade into the crypto market...",
+"url": "https://www.forbes.com/sites/digital-assets/2023/08/06/the-next-logical-next-step-leak-reveals-elon-musk-could-be-about-to-blow-up-the-bitcoin-ethereum-xrp-and-dogecoin-price/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64cce191912a743867716359/0x0.jpg?format=jpg&width=1200",
+"publishedAt": "2023-08-06T11:35:10Z",
+"content": "08/06 update below. This post was originally published on August 4\r\nBitcoin, ethereum and other major cryptocurrencies, including the meme-based dogecoin and Ripple's XRPXRP\r\n, came dangerously close… [+4331 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "ritholtz.com",
+"title": "10 Sunday Reads",
+"description": "Avert your eyes! My Sunday morning look at incompetency, corruption and policy failures: • This Is the Case: Special Counsel Jack Smith has sounded the call, but voters must answer it if they wish to preserve American democracy. (The Atlantic) • As EVs surge,…",
+"url": "https://biztoc.com/x/db970b347e89474d",
+"urlToImage": "https://c.biztoc.com/211/og.png",
+"publishedAt": "2023-08-06T11:12:07Z",
+"content": "Avert your eyes! My Sunday morning look at incompetency, corruption and policy failures:This Is the Case: Special Counsel Jack Smith has sounded the call, but voters must answer it if they wish to pr… [+295 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "reuters.com",
+"title": "Musk says fight with Zuckerberg will be live-streamed on X",
+"description": "[1/2] Tesla Chief Executive Officer Elon Musk gets in a Tesla car as he leaves a hotel in Beijing, China May 31, 2023. REUTERS/Tingshu Wang/File Photo Aug 6 (Reuters) - Elon Musk said in a social media post that his proposed cage fight with Meta (META.O) CEO …",
+"url": "https://biztoc.com/x/90dcfcaee912c80e",
+"urlToImage": "https://c.biztoc.com/p/90dcfcaee912c80e/s.webp",
+"publishedAt": "2023-08-06T11:10:20Z",
+"content": "[1/2] Tesla Chief Executive Officer Elon Musk gets in a Tesla car as he leaves a hotel in Beijing, China May 31, 2023. REUTERS/Tingshu Wang/File PhotoAug 6 (Reuters) - Elon Musk said in a social medi… [+296 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "EV startup Fisker revealed plans for a four-door convertible supercar with a Tesla-crushing 600 miles of range",
+"description": "Fisker revealed the Rōnin along with two other brand-new vehicles on Thursday. Fisker Electric-car startup Fisker unveiled three brand-new models on Thursday. One is the Rōnin, a four-door supercar with five seats and a claimed 1,000-plus horsepower. Fisker w…",
+"url": "https://biztoc.com/x/306a30805c63e656",
+"urlToImage": "https://c.biztoc.com/p/306a30805c63e656/s.webp",
+"publishedAt": "2023-08-06T11:10:05Z",
+"content": "Fisker revealed the Rnin along with two other brand-new vehicles on Thursday.FiskerElectric-car startup Fisker unveiled three brand-new models on Thursday. One is the Rnin, a four-door supercar with … [+303 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "businessinsider.com",
+"title": "Austin is copying Houston's playbook for making housing more affordable",
+"description": "General view of atmosphere during the Austin FOOD & WINE Festival at Auditorium Shores on November 05, 2022 in Austin, Texas. Rick Kern/Getty Images Demand for housing in Austin, Texas has outstripped even its relatively rapid housing production. But the city…",
+"url": "https://biztoc.com/x/04a42a0814df2bc4",
+"urlToImage": "https://c.biztoc.com/p/04a42a0814df2bc4/s.webp",
+"publishedAt": "2023-08-06T11:10:05Z",
+"content": "General view of atmosphere during the Austin FOOD &amp; WINE Festival at Auditorium Shores on November 05, 2022 in Austin, Texas.Rick Kern/Getty ImagesDemand for housing in Austin, Texas has outstrip… [+306 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Tim Levin",
+"title": "EV startup Fisker revealed plans for a four-door convertible supercar with a Tesla-crushing 600 miles of range",
+"description": "Fisker says the sleek Rōnin will have 1,000 horsepower, four doors, five seats, and a starting price of around $385,000.",
+"url": "https://www.businessinsider.com/fisker-reveals-ronin-supercar-600-mile-range-tesla-lucid-2023-8",
+"urlToImage": "https://i.insider.com/64cd587820f1cf0019cb0e2f?width=1200&format=jpeg",
+"publishedAt": "2023-08-06T10:50:01Z",
+"content": "Fisker revealed the Rōnin along with two other brand-new vehicles on Thursday.Fisker\r\n<ul>\n<li>Electric-car startup Fisker unveiled three brand-new models on Thursday. </li>\n<li>One is the Rōnin, a f… [+2389 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Notebookcheck.net"
+},
+"author": "Daniel Zlatev",
+"title": "All Teslas now eligible for used EV tax credit discount as Model 3 and older Model S fit the bill best",
+"description": "With the average prices of used Tesla cars dropping, and cheaper Model 3 Highland on the horizon, buyers would be glad to hear that Tesla has finally sorted out the paperwork to qualify for the up to US$4,000 tax credit. The federal government still asks that…",
+"url": "https://www.notebookcheck.net/All-Teslas-now-eligible-for-used-EV-tax-credit-discount-as-Model-3-and-older-Model-S-fit-the-bill-best.739313.0.html",
+"urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/red_tesla_model_3173265.jpg",
+"publishedAt": "2023-08-06T10:43:00Z",
+"content": "After taking its time with submitting the paperwork to make its electric vehicles eligible for the used EV tax credit that has been available to buyers since January 1, Tesla has finally made the mov… [+1795 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ritholtz.com"
+},
+"author": "Barry Ritholtz",
+"title": "10 Sunday Reads",
+"description": "Avert your eyes! My Sunday morning look at incompetency, corruption and policy failures: • This Is the Case: Special Counsel Jack Smith has sounded the call, but voters must answer it if they wish to preserve American democracy. (The Atlantic) • As EVs surge,…",
+"url": "https://ritholtz.com/2023/08/sunday-reads-335/",
+"urlToImage": "https://ritholtz.com/wp-content/uploads/2023/08/plastics.png",
+"publishedAt": "2023-08-06T10:30:53Z",
+"content": "Avert your eyes! My Sunday morning look at incompetency, corruption and policy failures:This Is the Case: Special Counsel Jack Smith has sounded the call, but voters must answer it if they wish to pr… [+4101 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "SoyaCincau.com"
+},
+"author": "Alexander Wong",
+"title": "Report: Tesla’s paid features can be enabled for free due to flaw with AMD Ryzen chip",
+"description": "Some say Electric Vehicles (EV) are essentially smartphones on wheels and like any tech gadget, there’s a small risk of some sort of exploit that could be used for various reasons. As reported by Tom’s Hardware, a group of security researchers from TU Berlin …",
+"url": "https://soyacincau.com/2023/08/06/report-tesla-jailbreak-paid-features-can-be-enabled-for-free-due-to-unpatchable-flaw-with-amd-ryzen/",
+"urlToImage": "https://soyacincau.com/wp-content/uploads/2023/08/230806-tesla-model-y-interior-2.jpg",
+"publishedAt": "2023-08-06T10:19:08Z",
+"content": "Some say Electric Vehicles (EV) are essentially smartphones on wheels and like any tech gadget, there’s a small risk of some sort of exploit that could be used for various reasons. As reported by Tom… [+2372 chars]"
+},
+{
+"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Eliza Relman",
+"title": "Austin is copying Houston's playbook for making housing more affordable",
+"description": "\"If we don't turn this ship around, the very thing that is driving the exodus from California I think will beset Texas,\" one housing advocate said.",
+"url": "https://www.businessinsider.com/austin-real-estate-housing-market-prices-houston-zoning-affordable-2023-8",
+"urlToImage": "https://i.insider.com/64cc11520b651c00193a5117?width=1200&format=jpeg",
+"publishedAt": "2023-08-06T10:15:01Z",
+"content": "General view of atmosphere during the Austin FOOD & WINE Festival at Auditorium Shores on November 05, 2022 in Austin, Texas.Rick Kern/Getty Images\r\n<ul>\n<li>Demand for housing in Austin, Texas has o… [+5440 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "reuters.com",
+"title": "Musk says fight with Zuckerberg will be live-streamed on X",
+"description": "[1/2] Tesla Chief Executive Officer Elon Musk gets in a Tesla car as he leaves a hotel in Beijing, China May 31, 2023. REUTERS/Tingshu Wang/File Photo Aug 6 (Reuters) - Elon Musk said in a social media post that his proposed cage fight with Meta (META.O) CEO …",
+"url": "https://biztoc.com/x/52a1cc19ad97be88",
+"urlToImage": "https://c.biztoc.com/p/52a1cc19ad97be88/og.webp",
+"publishedAt": "2023-08-06T10:12:05Z",
+"content": "[1/2] Tesla Chief Executive Officer Elon Musk gets in a Tesla car as he leaves a hotel in Beijing, China May 31, 2023. REUTERS/Tingshu Wang/File PhotoAug 6 (Reuters) - Elon Musk said in a social medi… [+296 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Motley Fool"
+},
+"author": "newsfeedback@fool.com (Neil Patel)",
+"title": "Is Tesla Stock a Buy?",
+"description": "The top EV business always attracts the attention of the investment community.",
+"url": "https://www.fool.com/investing/2023/08/06/is-tesla-stock-a-buy/",
+"urlToImage": "https://g.foolcdn.com/editorial/images/742465/tesla-ev-electric-vehicle-charging-station.jpg",
+"publishedAt": "2023-08-06T10:04:00Z",
+"content": "Many tech stocks have performed well in 2023, including Tesla(TSLA -2.11%), whose shares are up an incredible 107% (as of Aug. 2). Having a favorable market environment, as evidenced by the Nasdaq Co… [+4029 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Canton Repository"
+},
+"author": "Mark Vandegrift",
+"title": "The Clydesdales: Bud Light’s unexpected brand pooper scooper",
+"description": "Innis Maggiore President Mark Vandegrift writes about Bud Light's marketing fiasco.",
+"url": "https://www.cantonrep.com/story/opinion/columns/guest/2023/08/06/innis-maggiore-the-clydesdales-bud-lights-unexpected-brand-pooper-scooper/70500360007/",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/2TUW9FMkRjFPf27uzej.jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the-repository/250a0b20639cbf00c25d50832f51ec73",
+"publishedAt": "2023-08-06T09:10:13Z",
+"content": "Cans of Bud Light chill in a refrigerator.\r\nIf you participated in the Pro Football Hall of Fame festivities, chances are you spotted Anheuser-Buschs Clydesdales.\r\nThese majestic animals graced our c… [+5021 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Socialmediaexplorer.com"
+},
+"author": "Adam",
+"title": "Elon Musk Says Fight With Zuckerberg Will Be Livestreamed On Twitter",
+"description": "The combination of images below shows Elon Musk, Tesla CEO Elon Musk, and Facebook CEO Mark Zuckerberg. … [+] Musk. (AP Photo/Manu Fernandez, Stephan Savoia) Copyright 2023 The Associated Press. All rights reserved. Elon Musk...read more\nThe post Elon Musk Sa…",
+"url": "https://socialmediaexplorer.com/content-sections/news-and-noise/elon-musk-says-fight-with-zuckerberg-will-be-livestreamed-on-twitter/",
+"urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2023/08/1691312031_0x0.jpg",
+"publishedAt": "2023-08-06T08:53:30Z",
+"content": "The combination of images below shows Elon Musk, Tesla CEO Elon Musk, and Facebook CEO Mark Zuckerberg. … [+] Musk. (AP Photo/Manu Fernandez, Stephan Savoia)\r\nCopyright 2023 The Associated Press. All… [+1375 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "investopedia.com",
+"title": "Earnings Beat of the Week: Toyota Nearly Doubled Its Operating Profit",
+"description": "the world's top-selling automaker, nearly doubled its operating profit from a year earlier as better pricing, productivity gains, and supply-chain improvements boosted sales. Operating income for Toyota surged 94% from the year-ago quarter to 1.12 trillion ye…",
+"url": "https://biztoc.com/x/edbcd063278b73bd",
+"urlToImage": "https://c.biztoc.com/p/edbcd063278b73bd/s.webp",
+"publishedAt": "2023-08-06T08:48:02Z",
+"content": ", the world's top-selling automaker, nearly doubled its operating profit from a year earlier as better pricing, productivity gains, and supply-chain improvements boosted sales.Operating income for To… [+248 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "reuters.com",
+"title": "Musk says fight with Zuckerberg will be live-streamed on X",
+"description": "[1/2] Tesla Chief Executive Officer Elon Musk gets in a Tesla car as he leaves a hotel in Beijing, China May 31, 2023. REUTERS/Tingshu Wang/File Photo Aug 6 (Reuters) - Elon Musk said in a social media post that his fight with Meta (META.O) CEO Mark Zuckerber…",
+"url": "https://biztoc.com/x/bbfa47ffe1e01a86",
+"urlToImage": "https://c.biztoc.com/p/bbfa47ffe1e01a86/s.webp",
+"publishedAt": "2023-08-06T08:20:04Z",
+"content": "[1/2] Tesla Chief Executive Officer Elon Musk gets in a Tesla car as he leaves a hotel in Beijing, China May 31, 2023. REUTERS/Tingshu Wang/File PhotoAug 6 (Reuters) - Elon Musk said in a social medi… [+292 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Sky.com"
+},
+"author": "Chris Lockyer, news reporter",
+"title": "Musk v Zuckerberg fight to be streamed on X",
+"description": "Elon Musk has said his social media platform will live stream his fight with rival Mark Zuckerberg.",
+"url": "https://news.sky.com/story/elon-musk-v-mark-zuckerberg-tech-leaders-fight-to-be-streamed-on-x-12934684",
+"urlToImage": "https://e3.365dm.com/23/06/1600x900/skynews-mark-zuckerberg-elon-musk_6195529.jpg?20230622100034",
+"publishedAt": "2023-08-06T08:20:00Z",
+"content": "Elon Musk has said his social media platform will live stream his fight with rival Mark Zuckerberg.\r\nThe 52-year-old, who owns X (formerly known as Twitter), revealed earlier in the year that he and … [+2548 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Business Today"
+},
+"author": "Business Today Desk",
+"title": "Elon Musk announces his fight with Mark Zuckerberg to be live-streamed on X; proceeds will go for charity",
+"description": "Musk said that all proceeds will go to charity for veterans.",
+"url": "https://www.businesstoday.in/latest/story/elon-musk-announces-his-fight-with-mark-zuckerberg-to-be-live-streamed-on-x-proceeds-will-go-for-charity-392988-2023-08-06",
+"urlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202308/musk-sixteen_nine.jpg",
+"publishedAt": "2023-08-06T08:09:31Z",
+"content": "Tesla CEO Elon Musk on Sunday announced that his fight with Mark Zuckerberg will be live-streamed on his micro-blogging site, X - formerly known as Twitter. He also said that all proceeds will go to … [+966 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Matt Novak, Senior Contributor, \n Matt Novak, Senior Contributor\n https://www.forbes.com/sites/mattnovak/",
+"title": "Elon Musk Says Fight With Mark Zuckerberg Will Be Livestreamed On Twitter",
+"description": "Elon Musk announced that his upcoming fight with Meta’s Mark Zuckerberg will be livestreamed on X, the social media platform formerly known as Twitter.",
+"url": "https://www.forbes.com/sites/mattnovak/2023/08/06/elon-musk-says-fight-with-mark-zuckerberg-will-be-livestreamed-on-twitter/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64cf50aa51bf484612364b32/0x0.jpg?format=jpg&width=1200",
+"publishedAt": "2023-08-06T07:54:17Z",
+"content": "This combo of file images shows Facebook CEO Mark Zuckerberg, left, and Tesla and SpaceX CEO Elon ... [+] Musk. (AP Photo/Manu Fernandez, Stephan Savoia)\r\nCopyright 2023 The Associated Press. All rig… [+1486 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Socialmediaexplorer.com"
+},
+"author": "Adam",
+"title": "Elon Musk Says Twitter Will Pay Legal Fees Of ‘Unfairly Treated’ Users",
+"description": "Elon Musk (billionaire CEO of Tesla) at the Viva Tech Fair in Paris, France … [+]On Friday, June 16th 2023. Nathan Laine/Bloomberg © 2023 Bloomberg Finance LP Elon Musk says he’ll pay the legal fees...read more\nThe post Elon Musk Says Twitter Will Pay Legal F…",
+"url": "https://socialmediaexplorer.com/content-sections/news-and-noise/elon-musk-says-twitter-will-pay-legal-fees-of-unfairly-treated-users/",
+"urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2023/08/1691307969_0x0.jpg",
+"publishedAt": "2023-08-06T07:45:46Z",
+"content": "Elon Musk (billionaire CEO of Tesla) at the Viva Tech Fair in Paris, France … [+]On Friday, June 16th 2023. Nathan Laine/Bloomberg\r\n© 2023 Bloomberg Finance LP\r\nElon Musk says hell pay the legal fees… [+826 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Amazon.de"
+},
+"author": null,
+"title": "Carpuride Wireless Apple CarPlay & Android Auto,10.1-Zoll",
+"description": "Carpuride Apple CarPlay & Android Car, 10.1 Inch Car Radio with Sat Nav, Apple Carplay Radio, Car Android Stereo, Carplay Display Apple Carplay Monitor with Googl, Siri, Bluetooth: Amazon.de: Electronics & Photo",
+"url": "https://www.amazon.de/-/en/Carpuride-CarPlay-Android-Carplay-Bluetooth/dp/B0C2PH7WQM",
+"urlToImage": null,
+"publishedAt": "2023-08-06T07:10:26Z",
+"content": "E come avere l'infotainment di una Tesla o di una Volvo, almeno per quanto riguarda le dimensioni del display; sotto il profilo della comodità siamo ancora lontani dalla perfezione.Questo sistema Car… [+2771 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "ca.finance.yahoo.com",
+"title": "EV maker Lucid slashes prices of Air sedan as part of offer amid heating competition",
+"description": "Lucid Motors (Nasdaq: LCID) begins trading today on the Nasdaq stock exchange in New York City SAN FRANCISCO (Reuters) - Electric vehicle maker Lucid cut prices of its Air luxury sedans by as much as $12,400 as part of an offer, it said on Saturday, amid risi…",
+"url": "https://biztoc.com/x/def688d8caabea0f",
+"urlToImage": "https://c.biztoc.com/p/def688d8caabea0f/og.webp",
+"publishedAt": "2023-08-06T06:28:04Z",
+"content": "Lucid Motors (Nasdaq: LCID) begins trading today on the Nasdaq stock exchange in New York CitySAN FRANCISCO (Reuters) - Electric vehicle maker Lucid cut prices of its Air luxury sedans by as much as … [+312 chars]"
+},
+{
+"source": {
+"id": "next-big-future",
+"name": "Next Big Future"
+},
+"author": "Brian Wang",
+"title": "Pepsi Confirms Over 450 Miles of Range for Tesla Semi and Less than 1.7 KWH per Mile",
+"description": "Pepsi is deploying Tesla Semis at its Sacramento, CA location in long-haul applications with heavy loads. Trip distances are up to 450 miles on a single charge. One of the drivers indicates that they are needing less than 1.7 kWH per mile. The Tesla Semi can …",
+"url": "https://www.nextbigfuture.com/2023/08/pepsi-confirms-over-450-miles-of-range-for-tesla-semi-and-less-than-1-7-kwh-per-mile.html",
+"urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/08/Screen-Shot-2023-08-05-at-11.10.45-PM.jpg",
+"publishedAt": "2023-08-06T06:21:42Z",
+"content": "Pepsi is deploying Tesla Semis at its Sacramento, CA location in long-haul applications with heavy loads. Trip distances are up to 450 miles on a single charge.\r\nOne of the drivers indicates that the… [+3311 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Restofworld.org"
+},
+"author": "Veg",
+"title": "AI comes for YouTube’s thumbnail industry - Rest of World",
+"description": "AI researcher Anand Ahuja launched a tool called CTRHero which uses AI to create thumbnails for videos with 99% accuracy. The tool caused outrage among designers who fear job loss, but Ahuja sold the technology to entrepreneur Varun Mayya, who relaunched it a…",
+"url": "https://restofworld.org/2023/youtube-thumbnail-ai/",
+"urlToImage": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2023/08/Illustration-YoutubeThumb-RoW2-768x432.jpg",
+"publishedAt": "2023-08-06T05:47:01Z",
+"content": "This March, when U.S.-based AI researcher Anand Ahuja launched CTRHero, an AI to replace Thumbnail Artists, he called it his lifes work. Trained on millions of successful thumbnails from various soci… [+8102 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Telegraph.co.uk"
+},
+"author": "Matt Oliver",
+"title": "The China threat that’s already here – and on our roads",
+"description": "The presenters of Top Gear pulled no punches as they ridiculed Chinese cars on a visit to the country just over a decade ago.",
+"url": "https://www.telegraph.co.uk/business/2023/08/06/china-electric-cars-invasion-britain-security-risks/",
+"urlToImage": "https://media.zenfs.com/en/the_telegraph_258/a9ff67222cca67300a4e2ffd2b06282d",
+"publishedAt": "2023-08-06T05:00:00Z",
+"content": "China's spy cars on Britain's roads\r\nThe presenters of Top Gear pulled no punches as they ridiculed Chinese cars on a visit to the country just over a decade ago.\r\nIt is the most tragic looking thing… [+20809 chars]"
+},
+{
+"source": {
+"id": "techradar",
+"name": "TechRadar"
+},
+"author": "Craig Hale",
+"title": "An unpatchable AMD chip flaw is jailbreaking Tesla cars",
+"description": "Security researchers find a way to exploit an AMD vulnerability and get access to paywall-locked Tesla features.",
+"url": "https://www.techradar.com/pro/an-unpatchable-amd-chip-flaw-is-unlocking-paid-tesla-feature-upgrades",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/s5dg44WoGfH2ZE6EBuwZUJ-1200-80.jpg",
+"publishedAt": "2023-08-06T04:53:27Z",
+"content": "A group of researchers from Technical University (TU) Berlin have uncovered\r\n a vulnerability in AMD-based vehicle infotainment systems that allows attackers to unlock restricted vehicle features.\r\nT… [+1474 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Matt Novak, Senior Contributor, \n Matt Novak, Senior Contributor\n https://www.forbes.com/sites/mattnovak/",
+"title": "Elon Musk Says Twitter Will Pay Legal Fees Of Any Users Punished For Posting",
+"description": "Elon Musk says he’ll pay the legal fees of anyone who’s been “unfairly treated” by their employer for posting on Twitter, according to a tweet sent late Saturday.",
+"url": "https://www.forbes.com/sites/mattnovak/2023/08/05/elon-musk-says-twitter-will-pay-legal-fees-of-any-users-punished-for-posting/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64cf17473e4291c43d364b30/0x0.jpg?format=jpg&crop=3998,2247,x0,y60,safe&width=1200",
+"publishedAt": "2023-08-06T03:48:55Z",
+"content": "Elon Musk, billionaire and chief executive officer of Tesla, at the Viva Tech fair in Paris, France, ... [+] on Friday, June 16, 2023. Photographer: Nathan Laine/Bloomberg\r\n© 2023 Bloomberg Finance L… [+1250 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Zacjohnson.com"
+},
+"author": "Zac Johnson",
+"title": "Famous People on Currency Bills: US Legends in Your Wallet",
+"description": "Have you ever taken a closer look at the dollar bills in your wallet? Beyond their monetary value, they also serve as a canvas for celebrating some of the most influential figures in American history and culture. From presidents and statesmen to civil rights …",
+"url": "https://zacjohnson.com/famous-people-on-currency-bills/",
+"urlToImage": null,
+"publishedAt": "2023-08-06T03:25:39Z",
+"content": "Have you ever taken a closer look at the dollar bills in your wallet? Beyond their monetary value, they also serve as a canvas for celebrating some of the most influential figures in American history… [+15362 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Zacjohnson.com"
+},
+"author": "Zac Johnson",
+"title": "How Much Does Elon Musk Make a Second? Unveiling the Numbers!",
+"description": "Elon Musk is a household name that has become synonymous with innovation and success. As a renowned entrepreneur and CEO of several high-profile companies, he has achieved a level of financial success that is awe-inspiring. So, just how much does Elon Musk ma…",
+"url": "https://zacjohnson.com/how-much-does-elon-musk-make-a-second/",
+"urlToImage": null,
+"publishedAt": "2023-08-06T03:25:19Z",
+"content": "Elon Musk is a household name that has become synonymous with innovation and success. As a renowned entrepreneur and CEO of several high-profile companies, he has achieved a level of financial succes… [+15695 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "SoyaCincau.com"
+},
+"author": "Alexander Wong",
+"title": "BYD Dolphin: Finally, a proper EV for RM100K but where did they cut corners? | Let’s Talk About #125",
+"description": "Tesla Malaysia has recently shaken up the sub-RM300K EV segment with the Model Y and now BYD is doing the same for the sub-RM150K category with its new Dolphin EV. The BYD Dolphin is currently the best value for money entry-level EV which starts from just RM1…",
+"url": "https://soyacincau.com/2023/08/06/byd-dolphin-malaysia-finally-100k-ev-but-where-did-they-cut-corners-lta-25/",
+"urlToImage": "https://soyacincau.com/wp-content/uploads/2023/08/230806-LTA-BYD-Dolphin.jpg",
+"publishedAt": "2023-08-06T03:18:38Z",
+"content": "Tesla Malaysia has recently shaken up the sub-RM300K EV segment with the Model Y and now BYD is doing the same for the sub-RM150K category with its new Dolphin EV. The BYD Dolphin is currently the be… [+2251 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "nbcnews.com",
+"title": "Twitter commandeers @music handle from user with half a million followers",
+"description": "Social network Twitter, recently rebranded as X, has commandeered the handle @music from an open-source software developer who told CNBC he created the account in 2007, and had built a community of around half a million followers there. While Elon Musk-led X …",
+"url": "https://biztoc.com/x/fa3d931f0c17b90e",
+"urlToImage": "https://c.biztoc.com/p/fa3d931f0c17b90e/og.webp",
+"publishedAt": "2023-08-06T03:12:04Z",
+"content": "Social network Twitter, recently rebranded as X, has commandeered the handle @music from an open-source software developer who told CNBC he created the account in 2007, and had built a community of a… [+292 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Star Online"
+},
+"author": "Wong Chun Wai",
+"title": "Multi-billion boost",
+"description": "GETTING a German-based global semiconductor giant to invest more than RM24.9bil over the next five years in Malaysia is a big deal, but the company's expansion plans here have failed to generate the same excitement as the Tesla move. Read full story",
+"url": "https://www.thestar.com.my/opinion/columnists/comment/2023/08/06/multi-billion-boost",
+"urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/08/06/2216492.jpg",
+"publishedAt": "2023-08-06T02:48:00Z",
+"content": "Wong Chun Wai began his career as a journalist in Penang, and has served The Star for over 35 years in various capacities and roles. He is now group editorial and corporate affairs adviser to the gro… [+443 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "aol.com",
+"title": "Twitter commandeers @music handle from user with half a million followers",
+"description": "Social network Twitter, recently rebranded as X, has commandeered the handle @music from an open-source software developer who told CNBC he created the account in 2007, and had built a community of around half a million followers there. While Elon Musk-led X …",
+"url": "https://biztoc.com/x/24d8a173cc24dab5",
+"urlToImage": "https://c.biztoc.com/p/24d8a173cc24dab5/s.webp",
+"publishedAt": "2023-08-06T02:32:05Z",
+"content": "Social network Twitter, recently rebranded as X, has commandeered the handle @music from an open-source software developer who told CNBC he created the account in 2007, and had built a community of a… [+286 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "nbcnews.com",
+"title": "Twitter commandeers @music handle from user with half a million followers",
+"description": "Social network Twitter, recently rebranded as X, has commandeered the handle @music from an open-source software developer who told CNBC he created the account in 2007, and had built a community of around half a million followers there. While Elon Musk-led X …",
+"url": "https://biztoc.com/x/255124a3aac16458",
+"urlToImage": "https://c.biztoc.com/p/255124a3aac16458/s.webp",
+"publishedAt": "2023-08-06T02:20:05Z",
+"content": "Social network Twitter, recently rebranded as X, has commandeered the handle @music from an open-source software developer who told CNBC he created the account in 2007, and had built a community of a… [+292 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Ozbargain.com.au"
+},
+"author": "John Lam",
+"title": "15% off 32A 7kW Type 2 to Type 2 EV Charging Cable Fit BYD Tesla MG EVs Polestar $187 Free Ship @ INCHARGEx",
+"description": "Stock clearing sale 15% Off deal for the 32A 7 kW Type 2 to Type 2 EV Charging Cable perfect for BYD owners, will also fit Tesla, MG EV, Polestar and Other EVs @ INCHARGEx.\n\nFree shipping for this product.\n\nAll orders are shipped from Melbourne warehouse.",
+"url": "https://www.ozbargain.com.au/node/792229",
+"urlToImage": "https://files.ozbargain.com.au/n/29/792229x.jpg?h=57caa5e3",
+"publishedAt": "2023-08-06T02:15:53Z",
+"content": "Stock clearing sale 15% Off deal for the 32A 7 kW Type 2 to Type 2 EV Charging Cable perfect for BYD owners, will also fit Tesla, MG EV, Polestar and Other EVs @ INCHARGEx.\r\nFree shipping for this pr… [+55 chars]"
+},
+{
+"source": {
+"id": "nbc-news",
+"name": "NBC News"
+},
+"author": "Lora Kolodny, CNBC and Ashley Capoot, CNBC",
+"title": "Twitter commandeers @music handle from user with half a million followers",
+"description": "Social network Twitter, recently rebranded as X, has commandeered the handle @music from an open-source software developer who told CNBC he created the account in 2007, and had built a community of around half a million followers there.",
+"url": "https://www.nbcnews.com/tech/tech-news/twitter-commandeers-music-handle-user-half-million-followers-rcna98373",
+"urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230805-twitter-x-cc-1003p-b02c90.jpg",
+"publishedAt": "2023-08-06T02:10:41Z",
+"content": "Social network Twitter, recently rebranded as X, has commandeered the handle @music from an open-source software developer who told CNBC he created the account in 2007, and had built a community of a… [+3483 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Hackaday"
+},
+"author": "Navarre Bartz",
+"title": "Jailbreaking Tesla Infotainment Systems",
+"description": "With newer cars being computers on wheels, some manufacturers are using software to put features behind a paywall or thwarting DIY repairs. Industrious hackers security researchers have taken it upon …read more",
+"url": "https://hackaday.com/2023/08/05/jailbreaking-tesla-infotainment-systems/",
+"urlToImage": "https://hackaday.com/wp-content/uploads/2021/02/tesla-emmc-flash.png",
+"publishedAt": "2023-08-06T02:00:46Z",
+"content": "With newer cars being computers on wheels, some manufacturers are using software to put features behind a paywall or thwarting DIY repairs. Industrious \r\nhackers\r\n security researchers have taken it … [+1116 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "theverge.com",
+"title": "Lucid is dropping prices on three Air EVs ‘while supplies last’",
+"description": "Lucid Motors has announced it is reinstating “original pricing across the full air lineup,” dropping the price of two of its vehicles below $100,000, according to a press release the company shared with The Verge. The new base prices, “while supplies last,” w…",
+"url": "https://biztoc.com/x/ee8c3e472ef76fac",
+"urlToImage": "https://c.biztoc.com/p/ee8c3e472ef76fac/og.webp",
+"publishedAt": "2023-08-06T01:20:07Z",
+"content": "Lucid Motors has announced it is reinstating original pricing across the full air lineup, dropping the price of two of its vehicles below $100,000, according to a press release the company shared wit… [+312 chars]"
+}
+ ]
+
